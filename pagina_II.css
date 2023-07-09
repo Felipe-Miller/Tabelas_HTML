@@ -1,0 +1,23 @@
+body {
+    margin: 15px;
+}
+
+.corpo {
+    margin:  0px;
+    padding: 0px;
+    margin: 20px;
+ }
+ 
+tabela {
+     height: 100%;
+ }
+
+.topo {
+    height: 80px;
+ }
+ 
+
+.rodape {
+   text-align: center; 
+ }
+

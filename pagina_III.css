@@ -1,0 +1,13 @@
+body {
+    margin: 15px;
+}
+
+table, td, th {
+    margin: 15px;
+    border: 1px black;
+    height: 80px;
+    width:  250px;
+    border-style: outset;   
+}
+
+
